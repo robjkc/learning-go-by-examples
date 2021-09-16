@@ -6,7 +6,7 @@ We use:
 * Gorilla mux to handle routes
 * Swagger in order to serve a REST API compliant with OpenAPI specs
 
-go-rest-api use [Taskfile](https://dev.to/stack-labs/introduction-to-taskfile-a-makefile-alternative-h92) (a Makefile alternative). 
+go-rest-api use [Taskfile](https://dev.to/stack-labs/introduction-to-taskfile-a-makefile-alternative-h92) (a Makefile alternative).
 
 Please read the [Learning Go by examples: part 3 - Create an HTTP REST API Server in Go](https://dev.to/aurelievache/learning-go-by-examples-part-2-create-an-http-rest-api-server-in-go-1cdm) article in order to know more about this Git repository.
 
@@ -50,7 +50,7 @@ dr-who: PNG image data, 1700 x 1460, 8-bit/color RGBA, non-interlaced
 
 ### Request & Response Examples
 
-Swagger doc: [go-rest-api](https://github.com/scraly/learning-go-by-examples/blob/main/go-rest-api/doc/index.html)
+Swagger doc: [go-rest-api](https://github.com/robjkc/learning-go-by-examples/blob/main/go-rest-api/doc/index.html)
 
 |                 URL					 | Port | HTTP Method			       | Operation														    |
 |:-------------------------:|:--------:|:-----------------------:|------------------------------------------------------------------------|

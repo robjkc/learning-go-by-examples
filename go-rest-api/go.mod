@@ -1,4 +1,4 @@
-module github.com/scraly/learning-go-by-examples/go-rest-api
+module github.com/robjkc/learning-go-by-examples/go-rest-api
 
 go 1.16
 
