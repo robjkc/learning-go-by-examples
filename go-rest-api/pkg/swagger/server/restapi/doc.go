@@ -2,7 +2,7 @@
 
 // Package restapi go-rest-api
 //
-//  HTTP server in Go with Swagger endpoints definition
+//  HTTP server in Go with Swagger endpoints definition.
 //  Schemes:
 //    http
 //  Host: localhost

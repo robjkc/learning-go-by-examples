@@ -31,7 +31,7 @@ func NewGetGopherName(ctx *middleware.Context, handler GetGopherNameHandler) *Ge
 
 /* GetGopherName swagger:route GET /gopher/{name} getGopherName
 
-Return the Gopher Image
+Return the Gopher Image.
 
 */
 type GetGopherName struct {
